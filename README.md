@@ -46,7 +46,7 @@ $---You Can directly start booking from here---$
 	
 	You can creat new Key after your key expires.
 	
-## Images below show how the software looks actually.
+## Images below show how the software actually looks.
 
 ### Starting of application (Enter Mobile number):
 ![Start Page](https://github.com/parampatil/CoWIN-Vaccine-Slot-Booking/blob/ea61e7a8cb8ac75854f916c0a3f3814c44150744/Images/Enter%20Mobile%20Number.png)
