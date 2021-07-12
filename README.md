@@ -6,7 +6,7 @@ Hello,
 
 If you want to set automatic otp retrival follow steps below:
 
-#Setup of KVDB
+## Setup of KVDB
 
 	Step1: Go to https://kvdb.io/
 	
@@ -17,7 +17,7 @@ If you want to set automatic otp retrival follow steps below:
 	Step4: Go to #Setup of cowin Retriver app
 
 
-#Setup of cowin Retriver app
+## Setup of cowin Retriver app
 
 	Step1: Copy the CoWinOtpRetreiver.apk file in your Android Phone.
 	
@@ -31,7 +31,7 @@ If you want to set automatic otp retrival follow steps below:
 
 $---You Can directly start booking from here---$
 
-#To start booking:
+## To start booking:
 
 	Step1: Launch the slotbooking.exe file in PC.
 	
@@ -40,7 +40,7 @@ $---You Can directly start booking from here---$
 	
 	step3: If you select automatic otp retrivel then, Enter the KVDB Bucket key from #Setup of KVDB when asked.
 
-#NOTE
+## NOTE
 
 	KVDB Bucket key is valid only for 14 days.
 	
